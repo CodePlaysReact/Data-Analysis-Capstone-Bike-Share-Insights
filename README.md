@@ -2,7 +2,7 @@
 
 Tools: Python, SQL, Tableau
 
-Repo: github.com/yourhandle/bikeshare-analysis
+Repo: [github.com/yourhandle/bikeshare-analysis](https://github.com/CodePlaysReact/Data-Analysis-Capstone-Bike-Share-Insights)
 
 
 
